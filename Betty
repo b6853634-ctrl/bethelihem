@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bethelihem Tekle - CV</title>
+<style>
+  body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
+  .container { max-width: 800px; background: #fff; margin: auto; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+  h1 { text-align: center; color: #2a5d9f; }
+  h2 { color: #2a5d9f; border-bottom: 2px solid #2a5d9f; padding-bottom: 5px; margin-top: 25px; }
+  p, li { line-height: 1.6; }
+  ul { padding-left: 20px; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>BETHELIHEM TEKLE</h1>
+    <p style="text-align:center;">📞 0912774699 | ✉️ b6853634@gmail.com</p>
+
+    <h2>PROFILE</h2>
+    <p>Energetic and motivated Civil Engineering graduate from Debre Berhan University with a strong academic foundation and eagerness to apply engineering principles in real-world projects. Passionate about learning new skills, working in collaborative environments, and contributing to impactful infrastructure development.</p>
+
+    <h2>EDUCATION</h2>
+    <p><strong>Bachelor’s Degree in Civil Engineering</strong><br>Debre Berhan University — Graduated January 2021</p>
+
+    <h2>LANGUAGE SKILLS</h2>
+    <ul>
+      <li>Amharic (Native)</li>
+      <li>English (Fluent)</li>
+    </ul>
+
+    <h2>REFERENCES</h2>
+    <p>Available upon request.</p>
+  </div>
+</body>
+</html>
